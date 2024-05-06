@@ -1,16 +1,16 @@
-### Hi there 👋
+### Boas vindas ao meu perfil! 💙
 
-<!--
-**SilvaxLucas/SilvaXLucas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Meu nome é Lucas Eduardo Da Silva
 
-Here are some ideas to get you started:
+Estou estudando na [Alura](https:www.alura.com.br)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Gosto muito de aprender sobre a programação mesmo sendo muito difícil
+
+@Silvax.Lucs
+![](https://media.tenor.com/u2UfVHBMHLoAAAAi/jesus.gi)
+
+### Você entrar em contato comigo 📫
+
+00001095360553sp@al.educacao.sp.gov.br
+
+
